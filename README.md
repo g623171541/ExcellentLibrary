@@ -6,8 +6,14 @@
 
 ## 二、Swift
 
-- 侧边栏菜单滑动
+- SlideMenuControllerSwift
+    - 侧边栏菜单滑动
     - https://github.com/dekatotoro/SlideMenuControllerSwift
     
-- 酷炫的转场动画
+- Hero
+    - 酷炫的转场动画
     - https://github.com/lkzhao/Hero
+
+- Kingfisher
+    - 网络图片的下载缓存组件
+    - https://github.com/onevcat/Kingfisher
